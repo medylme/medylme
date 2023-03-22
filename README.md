@@ -9,9 +9,7 @@
 
 <br />
 
-* 🎓 Currently studying **BSc Bioinformatics** at [Leiden University](https://www.universiteitleiden.nl/en)
+* 🎓 Currently studying **BSc Bioinformatics** at [Leiden University](https://www.universiteitleiden.nl/en).
+* 📚 Main Languages: C#, TypeScript, Python.
 * 🌐 Creating websites with [Next.js](https://nextjs.org/) & [React](https://react.dev/).
-* 📚 Main Languages: **TypeScript**, **Python**, **C#**.
-* 🌱 Interested in AI.
-* ❤️ I love cats!
-
+* 🌱 Interested in low-level and AI.
