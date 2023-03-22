@@ -1,5 +1,5 @@
 <h1 align="center"> dylan </h1>
-<p align="center"> Computer Science Student, Hobbyist Programmer </h2>
+<p align="center"> Computer Science Student, Web Dev (Full-Stack) </h2>
 
 <div align="center">
   <a href="https://dyl.blue"> <img src="https://img.shields.io/badge/Website-dyl.blue-blueviolet?style=flat-square" /> </a>
@@ -10,6 +10,7 @@
 <br />
 
 * 🎓 Currently studying **BSc Bioinformatics** at [Leiden University](https://www.universiteitleiden.nl/en).
-* 📚 Main Languages: C#, TypeScript, Python.
-* 🌐 Creating websites with [Next.js](https://nextjs.org/) & [React](https://react.dev/).
+* 📚 Mainly C#, TypeScript, Python, HTML & CSS. 
+* 🌐 Mainly [Next.js](/nextjs.org/) & [Firebase](https://firebase.google.com/). 
+* ❤️ Serverless, RESTful, Trying out new things!
 * 🌱 Interested in low-level and AI.
