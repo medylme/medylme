@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://dyl.blue"> <img src="https://img.shields.io/badge/Website-dyl.blue-blueviolet?style=flat-square" /> </a>
-  <a href=""> <img src="https://img.shields.io/badge/Discord-dyl%231234-969eff?style=flat-square" </a>
+  <a href="https://discordapp.com/users/252093179011006464"> <img src="https://img.shields.io/badge/Discord-dyl%231234-969eff?style=flat-square" </a>
   <a href="https://ko-fi.com/medyl"> <img src="https://img.shields.io/badge/Ko--fi-medyl-FF5E5B?style=flat-square" </a>
 </div>
 
