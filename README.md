@@ -11,13 +11,21 @@
     
 * 🎓 Currently studying **BSc Bioinformatics** at [Leiden University](https://www.universiteitleiden.nl/en).
 * ❤️ Serverless, trying out new things(, and cats)!
-* 🌱 Interested in low-level and AI.
+* 🌱 Trying to get into low-level and AI (but too lazy).
     
-<h3>Tech I like to use</h3>
-    
+<h3>I like to use</h3>
+  
  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,ts,js,html,css,&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,firebase,redis&theme=dark" />
+  <a href="https://github.com/tandpfun/skill-icons/blob/main/readme.md#icons-list">
+    <img src="https://skillicons.dev/icons?i=py,cs,&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,latex&theme=dark" />
+  </a>
+ </p>    
+ <p align="center">
+  <a href="https://github.com/tandpfun/skill-icons/blob/main/readme.md#icons-list">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=azure,firebase,redis,&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vercel,cloudflare&theme=dark" />
   </a>
  </p>
