@@ -26,6 +26,5 @@
   <a href="https://github.com/tandpfun/skill-icons/blob/main/readme.md#icons-list">
     <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,&theme=dark" />
     <img src="https://skillicons.dev/icons?i=azure,firebase,redis,&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=vercel,cloudflare&theme=dark" />
   </a>
  </p>
