@@ -1,5 +1,5 @@
 <h1 align="center"> dylan </h1>
-<p align="center"> Computer Science Student, Hobbyist (Full Stack Web) Developer </p>
+<p align="center"> Computer Science Undergraduate, Hobbyist Developer </p>
 
 <div align="center">
   <a href="https://dyl.blue"> <img src="https://img.shields.io/badge/Website-dyl.blue-blueviolet?style=flat-square" /> </a>
