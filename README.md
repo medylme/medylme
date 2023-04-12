@@ -13,8 +13,6 @@
 * 🎓 Currently studying **BSc Bioinformatics** at [Leiden University](https://www.universiteitleiden.nl/en).
 * ❤️ Serverless, trying out new things(, and cats)!
 * 🌱 Trying to get into low-level and AI (but too lazy).
-    
-<h3>I like to use</h3>
   
  <p align="center">
   <a href="https://github.com/tandpfun/skill-icons/blob/main/readme.md#icons-list">
