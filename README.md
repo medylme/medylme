@@ -12,14 +12,7 @@
 <h2>❤️</h1>
  <p align="center">
   <a href="https://github.com/tandpfun/skill-icons/blob/main/readme.md#icons-list">
-    <img src="https://skillicons.dev/icons?i=py,cs,&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,latex&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,py,cs,&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,vue,tailwind,&theme=dark" />
   </a>
  </p>    
- <p align="center">
-  <a href="https://github.com/tandpfun/skill-icons/blob/main/readme.md#icons-list">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,vue,tailwind,&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=azure,firebase,redis,&theme=dark" />
-  </a>
- </p>
