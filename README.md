@@ -6,13 +6,3 @@
   <a href="https://discordapp.com/users/252093179011006464"> <img src="https://img.shields.io/badge/Discord-@medyl-969eff?style=flat-square" </a>
   <a href="mailto:dyl@dyl.blue"> <img src="https://img.shields.io/badge/-Email-4285F4?style=flat-square&logo=gmail&logoColor=white"> </a>
 </div>
-
-<br />
-
-<h2>❤️</h1>
- <p align="center">
-  <a href="https://github.com/tandpfun/skill-icons/blob/main/readme.md#icons-list">
-    <img src="https://skillicons.dev/icons?i=ts,py,cs,&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=nextjs,react,vue,tailwind,&theme=dark" />
-  </a>
- </p>    
